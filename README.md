@@ -1,6 +1,6 @@
 # Keeper Notes App
 
-React funcational components, passing data with props, using state hooks 
+React functional components, passing data with props, using state hooks 
 
 Created and deployed with CodeSandbox, an online code editor and IDE
 
